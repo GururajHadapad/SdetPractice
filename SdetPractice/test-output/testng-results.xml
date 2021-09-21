@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24951" started-at="2021-09-21T11:02:46 IST" finished-at="2021-09-21T11:03:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24951" started-at="2021-09-21T11:02:46 IST" finished-at="2021-09-21T11:03:11 IST">
+      <class name="com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest">
+        <test-method status="PASS" signature="connectDB()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="connectDB" is-config="true" duration-ms="26" started-at="2021-09-21T11:02:46 IST" finished-at="2021-09-21T11:02:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectDB -->
+        <test-method status="PASS" signature="lounchBrowser()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="lounchBrowser" is-config="true" duration-ms="5901" started-at="2021-09-21T11:02:46 IST" finished-at="2021-09-21T11:02:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lounchBrowser -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="loginToApp" is-config="true" duration-ms="3562" started-at="2021-09-21T11:02:52 IST" finished-at="2021-09-21T11:02:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="createOrgWithIndType()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="createOrgWithIndType" duration-ms="13229" started-at="2021-09-21T11:02:56 IST" finished-at="2021-09-21T11:03:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgWithIndType -->
+        <test-method status="PASS" signature="logoutFromApp()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="logoutFromApp" is-config="true" duration-ms="1753" started-at="2021-09-21T11:03:09 IST" finished-at="2021-09-21T11:03:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromApp -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="closeBrowser" is-config="true" duration-ms="432" started-at="2021-09-21T11:03:11 IST" finished-at="2021-09-21T11:03:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDB()[pri:0, instance:com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest@1e7c7811]" name="closeDB" is-config="true" duration-ms="1" started-at="2021-09-21T11:03:11 IST" finished-at="2021-09-21T11:03:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- com.vtiger.organiztionmoduletests.CreateOrgWithIndTypeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
